@@ -29,7 +29,8 @@ class TeachViewController: UIViewController, UITableViewDataSource {
             mySkills(skill_category_image: "IT", skill_category_name: "Programming", skill_start_time: "2015-07-06", skill_end_time: "2015-07-29",skill_isAvailable: "Available",skill_price: 2.4),
             mySkills(skill_category_image: "IT2", skill_category_name: "Office", skill_start_time: "2015-07-06", skill_end_time: "2015-07-29",skill_isAvailable: "Available",skill_price: 7),
             mySkills(skill_category_image: "Arts2", skill_category_name: "Muisc", skill_start_time: "2015-07-06", skill_end_time: "2015-07-29",skill_isAvailable: "Available",skill_price: 7),
-            mySkills(skill_category_image: "Arts2", skill_category_name: "Drawing", skill_start_time: "2015-07-06", skill_end_time: "2015-07-29",skill_isAvailable: "Available",skill_price: 3.6)
+            mySkills(skill_category_image: "Arts2", skill_category_name: "Drawing", skill_start_time: "2015-07-06", skill_end_time: "2015-07-29",skill_isAvailable: "Available",skill_price: 3.6),
+            mySkills(skill_category_image: "IT2", skill_category_name: "Java", skill_start_time: "2015-07-06", skill_end_time: "2015-07-29",skill_isAvailable: "UNAvailable",skill_price: 6.6)
         ]
     }
     
