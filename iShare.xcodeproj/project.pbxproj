@@ -13,6 +13,7 @@
 		2C30C0D81B42324D00F2A4F9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C30C0D71B42324D00F2A4F9 /* Images.xcassets */; };
 		2C30C0DB1B42324D00F2A4F9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C30C0D91B42324D00F2A4F9 /* LaunchScreen.xib */; };
 		2C30C0E71B42324E00F2A4F9 /* iShareTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C30C0E61B42324E00F2A4F9 /* iShareTests.swift */; };
+		2C6BBE101B51AE410042F058 /* LearnViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6BBE0F1B51AE410042F058 /* LearnViewController.swift */; };
 		2CB1CB7B1B4B5D6C00627780 /* TeachViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CB1CB7A1B4B5D6C00627780 /* TeachViewController.swift */; };
 		2CB1CB7D1B4B642C00627780 /* mySkills.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CB1CB7C1B4B642C00627780 /* mySkills.swift */; };
 		2CB1CB7F1B4B87FE00627780 /* extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CB1CB7E1B4B87FE00627780 /* extensions.swift */; };
@@ -42,6 +43,7 @@
 		2C30C0E01B42324E00F2A4F9 /* iShareTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iShareTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C30C0E51B42324E00F2A4F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2C30C0E61B42324E00F2A4F9 /* iShareTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iShareTests.swift; sourceTree = "<group>"; };
+		2C6BBE0F1B51AE410042F058 /* LearnViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LearnViewController.swift; sourceTree = "<group>"; };
 		2CB1CB7A1B4B5D6C00627780 /* TeachViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TeachViewController.swift; sourceTree = "<group>"; };
 		2CB1CB7C1B4B642C00627780 /* mySkills.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mySkills.swift; sourceTree = "<group>"; };
 		2CB1CB7E1B4B87FE00627780 /* extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = extensions.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 				2C30C0D01B42324D00F2A4F9 /* AppDelegate.swift */,
 				2C30C0D21B42324D00F2A4F9 /* ViewController.swift */,
 				2C30C0D41B42324D00F2A4F9 /* Main.storyboard */,
+				2C6BBE0F1B51AE410042F058 /* LearnViewController.swift */,
 				2CE3F4CC1B44A3A000929B5F /* DiscoverViewController.swift */,
 				2C30C0D71B42324D00F2A4F9 /* Images.xcassets */,
 				2C30C0D91B42324D00F2A4F9 /* LaunchScreen.xib */,
@@ -232,6 +235,7 @@
 			files = (
 				2CE3F4D11B44B14800929B5F /* Teacher.swift in Sources */,
 				2CE3F4CD1B44A3A000929B5F /* DiscoverViewController.swift in Sources */,
+				2C6BBE101B51AE410042F058 /* LearnViewController.swift in Sources */,
 				2CB1CB7D1B4B642C00627780 /* mySkills.swift in Sources */,
 				2CB1CB7F1B4B87FE00627780 /* extensions.swift in Sources */,
 				2CE3F4D31B44B16C00929B5F /* CategoryTabelViewCellData.swift in Sources */,
